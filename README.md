@@ -1,13 +1,21 @@
 # nineunion
 this project create by alex on 2015-06-08 for nine union company. use express + angular+ bootstrap+mongodb
 you can create this project by following step:
+
 1，安装nodejs 
+
 2, 安装 express: npm install -g express 
+
 3，安装express-generator :npm install -g express-generator@4
-3, 创建项目：express <projectName> 
-4, 安装 supervisor :npm install supervisor -g 
-5，安装 bower用于管理框架库。 npm install bower -g 
-6，使用bower 管理包依赖： 
+
+3, 创建项目：express <projectName>
+ 
+4, 安装 supervisor :npm install supervisor -g
+ 
+5，安装 bower用于管理框架库。 npm install bower -g
+ 
+6，使用bower 管理包依赖：
+ 
   1，创建.bowerrc 文件，指定本地存放地址： 
 	命令行：
  	copy con .bowerrc
