@@ -24,3 +24,6 @@
 	[?] set currently installed components as dependencies? Yes
 	[?] add commonly ignored files to ignore list? Yes
 	[?] would you like to mark this package as private which prevents it from being 	accidentally published to the registry? No
+	
+7,	
+	
