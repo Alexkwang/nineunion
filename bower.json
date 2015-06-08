@@ -1,0 +1,22 @@
+{
+  "name": "nineunion",
+  "version": "0.0.0",
+  "authors": [
+    "alex.k.wang <wind.kaiable@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies":{
+  "angular":"~1.4.0",
+  "angular-route":"~1.4.0",
+  "jquery":"~2.1.4",
+  "bootstrap":"~3.3.4",
+  "angular-bootstrap":"~0.13.0"
+   }
+}
