@@ -27,4 +27,4 @@
 	
 7,node-todo
 grunt-express-angular-example
-	
+	https://github.com/jakemmarsh/angularjs-gulp-browserify-boilerplate
