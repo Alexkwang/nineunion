@@ -1,17 +1,17 @@
-1£¬°²×°nodejs
-2, °²×° express: npm install -g express
-3£¬°²×°express-generator :npm install -g express-generator@4
-3, ´´½¨ÏîÄ¿£ºexpress <projectName>
-4, °²×° supervisor :npm install supervisor -g
-5£¬°²×° bowerÓÃÓÚ¹ÜÀí¿ò¼Ü¿â¡£ npm install bower -g
-6£¬Ê¹ÓÃbower ¹ÜÀí°üÒÀÀµ£º
-   1£¬´´½¨.bowerrc ÎÄ¼ş£¬Ö¸¶¨±¾µØ´æ·ÅµØÖ·£º
-	ÃüÁîĞĞ£º
+1ï¼Œå®‰è£…nodejs
+2, å®‰è£… express: npm install -g express
+3ï¼Œå®‰è£…express-generator :npm install -g express-generator@4
+3, åˆ›å»ºé¡¹ç›®ï¼šexpress <projectName>
+4, å®‰è£… supervisor :npm install supervisor -g
+5ï¼Œå®‰è£… bowerç”¨äºç®¡ç†æ¡†æ¶åº“ã€‚ npm install bower -g
+6ï¼Œä½¿ç”¨bower ç®¡ç†åŒ…ä¾èµ–ï¼š
+   1ï¼Œåˆ›å»º.bowerrc æ–‡ä»¶ï¼ŒæŒ‡å®šæœ¬åœ°å­˜æ”¾åœ°å€ï¼š
+	å‘½ä»¤è¡Œï¼š
 		copy con .bowerrc
-       ÊäÈëÄÚÈİ£¬È»ºó ctrl+Z+enter±£´æ£¬¾Í¿ÉÒÔÉú³ÉÎÄ¼şÁË¡£
-   2£¬´´½¨bower.jsonÎÄ¼ş£º
+       è¾“å…¥å†…å®¹ï¼Œç„¶å ctrl+Z+enterä¿å­˜ï¼Œå°±å¯ä»¥ç”Ÿæˆæ–‡ä»¶äº†ã€‚
+   2ï¼Œåˆ›å»ºbower.jsonæ–‡ä»¶ï¼š
        bower init
-      °´ÕÕÌáÊ¾£º
+      æŒ‰ç…§æç¤ºï¼š
 	$ bower init
 	[?] name: blog
 	[?] version: 0.0.1
@@ -25,5 +25,6 @@
 	[?] add commonly ignored files to ignore list? Yes
 	[?] would you like to mark this package as private which prevents it from being 	accidentally published to the registry? No
 	
-7,	
+7,node-todo
+grunt-express-angular-example
 	
