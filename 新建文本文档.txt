@@ -64,6 +64,34 @@ grunt-express-angular-example
     "run-sequence": "^1.1.1"
   }
 }
+==============================
 
+
+{
+  "name": "FrontendApp",
+  "version": "0.1.0",
+  "authors": [
+    "alex k wang <wind.kaiable@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
 
 
